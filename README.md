@@ -35,6 +35,7 @@ This synthetic dataset is designed for controlled evaluation and explainability 
 📊 **Evaluation Summary**
 
 <img width="870" height="191" alt="image" src="https://github.com/user-attachments/assets/43dca02d-09c2-4266-bc16-9cfcd2015b1b" />
+
 Evaluation scripts are included in evaluation.py. Scores are computed using HuggingFace’s bert-score and rouge-score libraries.
 
 
