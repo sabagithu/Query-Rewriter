@@ -1,15 +1,20 @@
 **📌 Query Rewriter with Personalization and Evaluation**
 
 🧠 **Overview**
+
 This project implements a personalized query rewriting pipeline using synthetic data enriched with user profiles. It evaluates rewritten queries using ROUGE-L and BERTScore, and includes a Streamlit interface for interactive exploration.
 
 📁** Dataset Description**
+
 The dataset synthetic_queries_dataset.csv contains synthetic user queries and their rewritten versions, structured to simulate personalization. Each row includes:
+
 <img width="873" height="523" alt="image" src="https://github.com/user-attachments/assets/717f3dac-abbb-4d49-acfc-2196edcab51b" />
+
 This synthetic dataset is designed for controlled evaluation and explainability in query rewriting tasks.
 
 
 📐 **Assumptions**
+
 - User profiles are complete and consistent across rows
 - Rewriting logic adapts based on interests, location, and device context
 - Evaluation metrics are computed per query and averaged across the dataset
@@ -17,22 +22,18 @@ This synthetic dataset is designed for controlled evaluation and explainability 
 
 ⚙️ **Setup Instructions**
 
-///bash
-<pre><code class="language-bash"># Clone the repositorygit clone https://github.com/sabagithu/Query-Rewriter.gitcd Query-Rewriter# Install dependenciespip install -r requirements.txt# Run the Streamlit appstreamlit run app.py</code></pre>
 
-- Clone the repository:
-git clone https://github.com/sabagithu/Query-Rewriter.git
-cd Query-Rewriter
+<pre><code class="language-bash"># Clone the repositorygit clone https://github.com/sabagithu/Query-Rewriter.git
+  cd Query-Rewriter
+  # Install dependencies
+  pip install -r requirements.txt
+  # Run the Streamlit app
+  streamlit run app.
+  py</code></pre>
 
-
-- Install dependencies:
-pip install -r requirements.txt
-
-
-- Run the Streamlit app:
-streamlit run app.py
 
 📊 **Evaluation Summary**
+
 <img width="870" height="191" alt="image" src="https://github.com/user-attachments/assets/43dca02d-09c2-4266-bc16-9cfcd2015b1b" />
 Evaluation scripts are included in evaluation.py. Scores are computed using HuggingFace’s bert-score and rouge-score libraries.
 
