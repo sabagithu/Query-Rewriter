@@ -28,8 +28,8 @@ This synthetic dataset is designed for controlled evaluation and explainability 
   # Install dependencies
   pip install -r requirements.txt
   # Run the Streamlit app
-  streamlit run app.
-  py</code></pre>
+  streamlit run app. py
+</code></pre>
 
 
 📊 **Evaluation Summary**
