@@ -1,0 +1,151 @@
+﻿user_id,user_profile,original_query,rewritten_query,location,device,interests,rewrite_type
+U001,customer_support,slow internet speed (India service center),Provide a formal and structured explanation of slow internet speed at India service center.,Bangalore,mobile,returns,formalization + localization
+U002,travel,cheap flights to Europe from Delhi,Explain in detail about cheap flights to Europe from Delhi with examples.,Delhi,desktop,luxury travel,elaboration + localization
+U003,shopping,best smartphones in Kolkata,Provide a formal and structured explanation of best smartphones in Kolkata.,Kolkata,tablet,electronics,formalization + localization
+U004,shopping,running shoes in Kolkata,Explain in detail about running shoes in Kolkata with examples.,Kolkata,desktop,home decor,elaboration + localization
+U005,exam_prep,integral calculus,Explain in detail about integral calculus with examples.,Kolkata,desktop,biology,elaboration
+U006,tech_help,python list comprehension,Explain in detail about python list comprehension with examples.,Hyderabad,desktop,databases,elaboration
+U007,shopping,kitchen appliances in Mumbai,Provide a formal and structured explanation of kitchen appliances in Mumbai.,Mumbai,tablet,fashion,formalization + localization
+U008,customer_support,refund not processed (India service center),Explain in detail about refund not processed at India service center with examples.,Hyderabad,desktop,returns,elaboration + localization
+U009,exam_prep,integral calculus,Provide a formal and structured explanation of integral calculus.,Kolkata,desktop,competitive exams,formalization
+U010,customer_support,damaged product (India service center),Simple explanation of damaged product at India service center for beginners.,Chennai,tablet,returns,simplification + localization
+U011,health,yoga benefits (India),Provide a formal and structured explanation of yoga benefits in India.,Hyderabad,desktop,nutrition,formalization + localization
+U012,health,diet for weight loss (India),Simple explanation of diet for weight loss in India for beginners.,Chennai,tablet,nutrition,simplification + localization
+U013,tech_help,debugging memory error,Explain in detail about debugging memory error with examples.,Bangalore,desktop,programming,elaboration
+U014,travel,top places in Goa from Bangalore,Simple explanation of top places in Goa from Bangalore for beginners.,Bangalore,mobile,luxury travel,simplification + localization
+U015,health,symptoms of diabetes (India),Explain in detail about symptoms of diabetes in India with examples.,Hyderabad,mobile,mental health,elaboration + localization
+U016,shopping,budget laptops in Hyderabad,Explain in detail about budget laptops in Hyderabad with examples.,Hyderabad,mobile,electronics,elaboration + localization
+U017,health,symptoms of diabetes (India),Explain in detail about symptoms of diabetes in India with examples.,Bangalore,desktop,nutrition,elaboration + localization
+U018,shopping,best smartphones in Chennai,Simple explanation of best smartphones in Chennai for beginners.,Chennai,mobile,home decor,simplification + localization
+U019,shopping,kitchen appliances in Kolkata,Explain in detail about kitchen appliances in Kolkata with examples.,Kolkata,mobile,electronics,elaboration + localization
+U020,travel,cheap flights to Europe from Delhi,Simple explanation of cheap flights to Europe from Delhi for beginners.,Delhi,mobile,budget travel,simplification + localization
+U021,tech_help,SQL join types,Provide a formal and structured explanation of SQL join types.,Hyderabad,tablet,databases,formalization
+U022,health,diet for weight loss (India),Simple explanation of diet for weight loss in India for beginners.,Chennai,tablet,fitness,simplification + localization
+U023,travel,top places in Goa from Mumbai,Provide a formal and structured explanation of top places in Goa from Mumbai.,Mumbai,desktop,adventure,formalization + localization
+U024,tech_help,SQL join types,Provide a formal and structured explanation of SQL join types.,Delhi,desktop,AI/ML,formalization
+U025,health,yoga benefits (India),Explain in detail about yoga benefits in India with examples.,Mumbai,desktop,fitness,elaboration + localization
+U026,travel,top places in Goa from Mumbai,Simple explanation of top places in Goa from Mumbai for beginners.,Mumbai,mobile,luxury travel,simplification + localization
+U027,travel,visa process for USA from Chennai,Simple explanation of visa process for USA from Chennai for beginners.,Chennai,desktop,adventure,simplification + localization
+U028,exam_prep,photosynthesis process,Simple explanation of photosynthesis process for beginners.,Mumbai,tablet,physics,simplification
+U029,health,diet for weight loss (India),Simple explanation of diet for weight loss in India for beginners.,Chennai,mobile,nutrition,simplification + localization
+U030,tech_help,SQL join types,Explain in detail about SQL join types with examples.,Mumbai,tablet,programming,elaboration
+U031,tech_help,debugging memory error,Explain in detail about debugging memory error with examples.,Hyderabad,tablet,AI/ML,elaboration
+U032,shopping,best smartphones in Mumbai,Simple explanation of best smartphones in Mumbai for beginners.,Mumbai,tablet,electronics,simplification + localization
+U033,shopping,kitchen appliances in Mumbai,Provide a formal and structured explanation of kitchen appliances in Mumbai.,Mumbai,desktop,electronics,formalization + localization
+U034,health,symptoms of diabetes (India),Provide a formal and structured explanation of symptoms of diabetes in India.,Hyderabad,tablet,fitness,formalization + localization
+U035,shopping,running shoes in Mumbai,Provide a formal and structured explanation of running shoes in Mumbai.,Mumbai,desktop,home decor,formalization + localization
+U036,shopping,best smartphones in Kolkata,Explain in detail about best smartphones in Kolkata with examples.,Kolkata,tablet,home decor,elaboration + localization
+U037,health,symptoms of diabetes (India),Provide a formal and structured explanation of symptoms of diabetes in India.,Delhi,mobile,nutrition,formalization + localization
+U038,shopping,kitchen appliances in Chennai,Explain in detail about kitchen appliances in Chennai with examples.,Chennai,desktop,fashion,elaboration + localization
+U039,customer_support,damaged product (India service center),Simple explanation of damaged product at India service center for beginners.,Chennai,tablet,technical issue,simplification + localization
+U040,exam_prep,Newton's laws,Explain in detail about Newton's laws with examples.,Delhi,tablet,competitive exams,elaboration
+U041,customer_support,issue with login (India service center),Simple explanation of issue with login at India service center for beginners.,Mumbai,mobile,billing,simplification + localization
+U042,exam_prep,World War II causes,Provide a formal and structured explanation of World War II causes.,Kolkata,desktop,biology,formalization
+U043,exam_prep,World War II causes,Simple explanation of World War II causes for beginners.,Kolkata,mobile,competitive exams,simplification
+U044,health,yoga benefits (India),Simple explanation of yoga benefits in India for beginners.,Hyderabad,mobile,nutrition,simplification + localization
+U045,travel,top places in Goa from Chennai,Simple explanation of top places in Goa from Chennai for beginners.,Chennai,tablet,adventure,simplification + localization
+U046,travel,visa process for USA from Kolkata,Provide a formal and structured explanation of visa process for USA from Kolkata.,Kolkata,tablet,adventure,formalization + localization
+U047,tech_help,SQL join types,Explain in detail about SQL join types with examples.,Delhi,mobile,programming,elaboration
+U048,travel,cheap flights to Europe from Kolkata,Simple explanation of cheap flights to Europe from Kolkata for beginners.,Kolkata,desktop,adventure,simplification + localization
+U049,health,diet for weight loss (India),Explain in detail about diet for weight loss in India with examples.,Kolkata,mobile,fitness,elaboration + localization
+U050,customer_support,slow internet speed (India service center),Simple explanation of slow internet speed at India service center for beginners.,Mumbai,mobile,technical issue,simplification + localization
+U051,tech_help,python list comprehension,Simple explanation of python list comprehension for beginners.,Bangalore,tablet,programming,simplification
+U052,customer_support,refund not processed (India service center),Simple explanation of refund not processed at India service center for beginners.,Hyderabad,desktop,returns,simplification + localization
+U053,shopping,kitchen appliances in Hyderabad,Explain in detail about kitchen appliances in Hyderabad with examples.,Hyderabad,mobile,home decor,elaboration + localization
+U054,health,yoga benefits (India),Explain in detail about yoga benefits in India with examples.,Mumbai,mobile,fitness,elaboration + localization
+U055,exam_prep,World War II causes,Provide a formal and structured explanation of World War II causes.,Hyderabad,desktop,biology,formalization
+U056,health,mental health tips (India),Simple explanation of mental health tips in India for beginners.,Chennai,mobile,fitness,simplification + localization
+U057,health,yoga benefits (India),Provide a formal and structured explanation of yoga benefits in India.,Hyderabad,desktop,nutrition,formalization + localization
+U058,travel,cheap flights to Europe from Hyderabad,Provide a formal and structured explanation of cheap flights to Europe from Hyderabad.,Hyderabad,mobile,adventure,formalization + localization
+U059,health,mental health tips (India),Simple explanation of mental health tips in India for beginners.,Mumbai,mobile,fitness,simplification + localization
+U060,tech_help,debugging memory error,Simple explanation of debugging memory error for beginners.,Delhi,mobile,databases,simplification
+U061,shopping,budget laptops in Hyderabad,Explain in detail about budget laptops in Hyderabad with examples.,Hyderabad,desktop,fashion,elaboration + localization
+U062,tech_help,SQL join types,Provide a formal and structured explanation of SQL join types.,Hyderabad,tablet,programming,formalization
+U063,exam_prep,World War II causes,Simple explanation of World War II causes for beginners.,Chennai,mobile,biology,simplification
+U064,shopping,running shoes in Kolkata,Explain in detail about running shoes in Kolkata with examples.,Kolkata,mobile,home decor,elaboration + localization
+U065,health,mental health tips (India),Provide a formal and structured explanation of mental health tips in India.,Kolkata,tablet,nutrition,formalization + localization
+U066,travel,visa process for USA from Kolkata,Simple explanation of visa process for USA from Kolkata for beginners.,Kolkata,mobile,luxury travel,simplification + localization
+U067,exam_prep,World War II causes,Explain in detail about World War II causes with examples.,Delhi,mobile,biology,elaboration
+U068,travel,visa process for USA from Hyderabad,Explain in detail about visa process for USA from Hyderabad with examples.,Hyderabad,tablet,adventure,elaboration + localization
+U069,travel,cheap flights to Europe from Chennai,Simple explanation of cheap flights to Europe from Chennai for beginners.,Chennai,tablet,luxury travel,simplification + localization
+U070,tech_help,tensorflow installation,Provide a formal and structured explanation of tensorflow installation.,Delhi,mobile,AI/ML,formalization
+U071,customer_support,refund not processed (India service center),Explain in detail about refund not processed at India service center with examples.,Kolkata,desktop,returns,elaboration + localization
+U072,exam_prep,photosynthesis process,Simple explanation of photosynthesis process for beginners.,Bangalore,tablet,competitive exams,simplification
+U073,tech_help,python list comprehension,Provide a formal and structured explanation of python list comprehension.,Kolkata,desktop,programming,formalization
+U074,travel,top places in Goa from Bangalore,Simple explanation of top places in Goa from Bangalore for beginners.,Bangalore,desktop,budget travel,simplification + localization
+U075,shopping,kitchen appliances in Kolkata,Simple explanation of kitchen appliances in Kolkata for beginners.,Kolkata,desktop,home decor,simplification + localization
+U076,exam_prep,photosynthesis process,Explain in detail about photosynthesis process with examples.,Chennai,desktop,competitive exams,elaboration
+U077,health,mental health tips (India),Explain in detail about mental health tips in India with examples.,Hyderabad,desktop,mental health,elaboration + localization
+U078,customer_support,refund not processed (India service center),Provide a formal and structured explanation of refund not processed at India service center.,Chennai,desktop,returns,formalization + localization
+U079,exam_prep,Newton's laws,Provide a formal and structured explanation of Newton's laws.,Kolkata,desktop,physics,formalization
+U080,shopping,best smartphones in Chennai,Provide a formal and structured explanation of best smartphones in Chennai.,Chennai,tablet,electronics,formalization + localization
+U081,exam_prep,photosynthesis process,Simple explanation of photosynthesis process for beginners.,Mumbai,desktop,biology,simplification
+U082,shopping,running shoes in Kolkata,Provide a formal and structured explanation of running shoes in Kolkata.,Kolkata,mobile,home decor,formalization + localization
+U083,health,yoga benefits (India),Provide a formal and structured explanation of yoga benefits in India.,Kolkata,tablet,fitness,formalization + localization
+U084,tech_help,debugging memory error,Provide a formal and structured explanation of debugging memory error.,Bangalore,mobile,programming,formalization
+U085,tech_help,SQL join types,Explain in detail about SQL join types with examples.,Chennai,desktop,AI/ML,elaboration
+U086,tech_help,python list comprehension,Provide a formal and structured explanation of python list comprehension.,Kolkata,tablet,AI/ML,formalization
+U087,tech_help,SQL join types,Provide a formal and structured explanation of SQL join types.,Mumbai,desktop,AI/ML,formalization
+U088,shopping,budget laptops in Chennai,Simple explanation of budget laptops in Chennai for beginners.,Chennai,mobile,electronics,simplification + localization
+U089,health,diet for weight loss (India),Explain in detail about diet for weight loss in India with examples.,Bangalore,mobile,mental health,elaboration + localization
+U090,tech_help,debugging memory error,Provide a formal and structured explanation of debugging memory error.,Kolkata,desktop,programming,formalization
+U091,health,diet for weight loss (India),Provide a formal and structured explanation of diet for weight loss in India.,Delhi,desktop,nutrition,formalization + localization
+U092,customer_support,refund not processed (India service center),Simple explanation of refund not processed at India service center for beginners.,Hyderabad,desktop,billing,simplification + localization
+U093,customer_support,issue with login (India service center),Simple explanation of issue with login at India service center for beginners.,Bangalore,tablet,returns,simplification + localization
+U094,exam_prep,Newton's laws,Provide a formal and structured explanation of Newton's laws.,Chennai,desktop,biology,formalization
+U095,tech_help,tensorflow installation,Explain in detail about tensorflow installation with examples.,Hyderabad,mobile,programming,elaboration
+U096,customer_support,issue with login (India service center),Explain in detail about issue with login at India service center with examples.,Bangalore,mobile,technical issue,elaboration + localization
+U097,exam_prep,Newton's laws,Provide a formal and structured explanation of Newton's laws.,Delhi,mobile,biology,formalization
+U098,tech_help,debugging memory error,Explain in detail about debugging memory error with examples.,Hyderabad,desktop,databases,elaboration
+U099,customer_support,issue with login (India service center),Simple explanation of issue with login at India service center for beginners.,Mumbai,desktop,technical issue,simplification + localization
+U100,travel,visa process for USA from Hyderabad,Simple explanation of visa process for USA from Hyderabad for beginners.,Hyderabad,tablet,budget travel,simplification + localization
+U101,tech_help,tensorflow installation,Simple explanation of tensorflow installation for beginners.,Hyderabad,desktop,databases,simplification
+U102,shopping,best smartphones in Hyderabad,Explain in detail about best smartphones in Hyderabad with examples.,Hyderabad,mobile,fashion,elaboration + localization
+U103,exam_prep,Newton's laws,Provide a formal and structured explanation of Newton's laws.,Bangalore,mobile,physics,formalization
+U104,travel,cheap flights to Europe from Chennai,Explain in detail about cheap flights to Europe from Chennai with examples.,Chennai,mobile,budget travel,elaboration + localization
+U105,shopping,best smartphones in Hyderabad,Simple explanation of best smartphones in Hyderabad for beginners.,Hyderabad,tablet,home decor,simplification + localization
+U106,travel,top places in Goa from Bangalore,Explain in detail about top places in Goa from Bangalore with examples.,Bangalore,mobile,budget travel,elaboration + localization
+U107,travel,top places in Goa from Delhi,Explain in detail about top places in Goa from Delhi with examples.,Delhi,desktop,budget travel,elaboration + localization
+U108,travel,top places in Goa from Mumbai,Explain in detail about top places in Goa from Mumbai with examples.,Mumbai,mobile,adventure,elaboration + localization
+U109,shopping,running shoes in Mumbai,Explain in detail about running shoes in Mumbai with examples.,Mumbai,mobile,electronics,elaboration + localization
+U110,travel,road trips in India from Bangalore,Provide a formal and structured explanation of road trips in India from Bangalore.,Bangalore,tablet,budget travel,formalization + localization
+U111,travel,visa process for USA from Bangalore,Explain in detail about visa process for USA from Bangalore with examples.,Bangalore,tablet,luxury travel,elaboration + localization
+U112,health,yoga benefits (India),Provide a formal and structured explanation of yoga benefits in India.,Mumbai,tablet,mental health,formalization + localization
+U113,shopping,budget laptops in Hyderabad,Explain in detail about budget laptops in Hyderabad with examples.,Hyderabad,mobile,fashion,elaboration + localization
+U114,exam_prep,World War II causes,Explain in detail about World War II causes with examples.,Mumbai,tablet,biology,elaboration
+U115,tech_help,tensorflow installation,Simple explanation of tensorflow installation for beginners.,Bangalore,desktop,programming,simplification
+U116,shopping,kitchen appliances in Bangalore,Provide a formal and structured explanation of kitchen appliances in Bangalore.,Bangalore,mobile,electronics,formalization + localization
+U117,customer_support,damaged product (India service center),Simple explanation of damaged product at India service center for beginners.,Kolkata,desktop,billing,simplification + localization
+U118,travel,top places in Goa from Chennai,Explain in detail about top places in Goa from Chennai with examples.,Chennai,mobile,adventure,elaboration + localization
+U119,travel,top places in Goa from Mumbai,Explain in detail about top places in Goa from Mumbai with examples.,Mumbai,tablet,budget travel,elaboration + localization
+U120,exam_prep,photosynthesis process,Simple explanation of photosynthesis process for beginners.,Mumbai,tablet,competitive exams,simplification
+U121,travel,visa process for USA from Hyderabad,Provide a formal and structured explanation of visa process for USA from Hyderabad.,Hyderabad,tablet,budget travel,formalization + localization
+U122,tech_help,tensorflow installation,Explain in detail about tensorflow installation with examples.,Mumbai,desktop,databases,elaboration
+U123,customer_support,issue with login (India service center),Explain in detail about issue with login at India service center with examples.,Mumbai,tablet,returns,elaboration + localization
+U124,tech_help,SQL join types,Provide a formal and structured explanation of SQL join types.,Delhi,mobile,databases,formalization
+U125,customer_support,issue with login (India service center),Simple explanation of issue with login at India service center for beginners.,Delhi,desktop,billing,simplification + localization
+U126,tech_help,debugging memory error,Provide a formal and structured explanation of debugging memory error.,Hyderabad,desktop,databases,formalization
+U127,exam_prep,integral calculus,Provide a formal and structured explanation of integral calculus.,Delhi,desktop,physics,formalization
+U128,health,symptoms of diabetes (India),Provide a formal and structured explanation of symptoms of diabetes in India.,Mumbai,mobile,fitness,formalization + localization
+U129,health,mental health tips (India),Provide a formal and structured explanation of mental health tips in India.,Chennai,desktop,nutrition,formalization + localization
+U130,health,mental health tips (India),Provide a formal and structured explanation of mental health tips in India.,Hyderabad,mobile,mental health,formalization + localization
+U131,travel,cheap flights to Europe from Chennai,Simple explanation of cheap flights to Europe from Chennai for beginners.,Chennai,desktop,adventure,simplification + localization
+U132,exam_prep,Newton's laws,Provide a formal and structured explanation of Newton's laws.,Chennai,mobile,competitive exams,formalization
+U133,shopping,kitchen appliances in Chennai,Simple explanation of kitchen appliances in Chennai for beginners.,Chennai,desktop,fashion,simplification + localization
+U134,health,diet for weight loss (India),Explain in detail about diet for weight loss in India with examples.,Mumbai,desktop,fitness,elaboration + localization
+U135,health,symptoms of diabetes (India),Provide a formal and structured explanation of symptoms of diabetes in India.,Kolkata,mobile,nutrition,formalization + localization
+U136,customer_support,slow internet speed (India service center),Explain in detail about slow internet speed at India service center with examples.,Hyderabad,desktop,returns,elaboration + localization
+U137,exam_prep,photosynthesis process,Provide a formal and structured explanation of photosynthesis process.,Chennai,tablet,biology,formalization
+U138,shopping,budget laptops in Delhi,Simple explanation of budget laptops in Delhi for beginners.,Delhi,desktop,home decor,simplification + localization
+U139,travel,cheap flights to Europe from Kolkata,Provide a formal and structured explanation of cheap flights to Europe from Kolkata.,Kolkata,mobile,luxury travel,formalization + localization
+U140,tech_help,python list comprehension,Explain in detail about python list comprehension with examples.,Mumbai,mobile,programming,elaboration
+U141,exam_prep,photosynthesis process,Simple explanation of photosynthesis process for beginners.,Mumbai,mobile,biology,simplification
+U142,exam_prep,integral calculus,Explain in detail about integral calculus with examples.,Delhi,desktop,biology,elaboration
+U143,customer_support,issue with login (India service center),Provide a formal and structured explanation of issue with login at India service center.,Bangalore,desktop,technical issue,formalization + localization
+U144,travel,visa process for USA from Kolkata,Explain in detail about visa process for USA from Kolkata with examples.,Kolkata,tablet,budget travel,elaboration + localization
+U145,travel,cheap flights to Europe from Kolkata,Simple explanation of cheap flights to Europe from Kolkata for beginners.,Kolkata,desktop,adventure,simplification + localization
+U146,travel,road trips in India from Bangalore,Explain in detail about road trips in India from Bangalore with examples.,Bangalore,mobile,luxury travel,elaboration + localization
+U147,shopping,best smartphones in Bangalore,Provide a formal and structured explanation of best smartphones in Bangalore.,Bangalore,desktop,fashion,formalization + localization
+U148,health,mental health tips (India),Provide a formal and structured explanation of mental health tips in India.,Hyderabad,tablet,nutrition,formalization + localization
+U149,customer_support,issue with login (India service center),Simple explanation of issue with login at India service center for beginners.,Chennai,tablet,returns,simplification + localization
+U150,tech_help,debugging memory error,Explain in detail about debugging memory error with examples.,Chennai,mobile,databases,elaboration

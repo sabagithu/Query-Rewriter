@@ -1,0 +1,11 @@
+streamlit==1.50.0
+pandas==2.3.1
+numpy==1.26.4
+scikit-learn==1.6.1
+transformers==4.56.2
+torch==2.8.0
+rouge-score==0.1.2
+bert-score==0.3.13
+sentence-transformers==5.1.1
+matplotlib==3.9.4
+seaborn==0.13.2
