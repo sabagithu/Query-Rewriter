@@ -16,6 +16,10 @@ This synthetic dataset is designed for controlled evaluation and explainability 
 - Synthetic data approximates real-world personalization scenarios
 
 ⚙️ **Setup Instructions**
+
+///bash
+<pre><code class="language-bash"># Clone the repositorygit clone https://github.com/sabagithu/Query-Rewriter.gitcd Query-Rewriter# Install dependenciespip install -r requirements.txt# Run the Streamlit appstreamlit run app.py</code></pre>
+
 - Clone the repository:
 git clone https://github.com/sabagithu/Query-Rewriter.git
 cd Query-Rewriter
